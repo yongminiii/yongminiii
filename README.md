@@ -15,4 +15,4 @@
 - (주)비인텍 (2022.10 ~ )   
 
 ## Contact
-- E-Mail : ymiru0324@naver.com   
+- E-Mail : dev.yongmini@gmail.com      
