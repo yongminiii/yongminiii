@@ -13,7 +13,3 @@
 
 ## Career
 - (주)비인텍 (2022.10 ~ )   
-
-## Contact
-- E-Mail : dev.yongmini@gmail.com      
-- Blog : https://brookigumi.tistory.com
